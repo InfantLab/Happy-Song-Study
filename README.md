@@ -1,9 +1,9 @@
-# Dancing Babies
+# Happy Song Study
 ## Investigating toddlers dancing with an online experiment
-### Project lead - Victoria Lazzari <vlazz001@gold.ac.uk>
+### Project lead - Anthi Georgiadou <ageor006@gold.ac.uk>
 #### Goldsmiths, University of London
 
-### Principal Investigator - Dr Caspar Addyman <c.addyman@gold.ac.uk> 
+### Principal Investigator - Prof Lauren Stewart <c.addyman@gold.ac.uk> 
 #### Goldsmiths, University of London
 
 
