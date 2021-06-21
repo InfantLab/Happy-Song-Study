@@ -3,7 +3,8 @@
 ### Project lead - Anthi Georgiadou <ageor006@gold.ac.uk>
 #### Goldsmiths, University of London
 
-### Principal Investigator - Prof Lauren Stewart <c.addyman@gold.ac.uk> 
+### Supervisors - Prof Lauren Stewart <l.stewart@gold.ac.uk> & Dr Caspar Addyman <c.addyman@gold.ac.uk> 
+
 #### Goldsmiths, University of London
 
 
