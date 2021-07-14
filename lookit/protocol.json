@@ -39,7 +39,7 @@
         },
         "video-config": {
             "kind": "exp-video-config",
-            "troubleshootingIntro": "If you're having any trouble getting your webcam set up, please email Anthi Georgiadou <ageor006@gold.ac.uk> with a brief description of the problem."
+            "troubleshootingIntro": "If you're having any trouble getting your webcam set up, please email Caspar Addyman <c.addyman@gold.ac.uk> with a brief description of the problem."
         },
         "video-consent": {
             "kind": "exp-lookit-video-consent",
@@ -107,7 +107,19 @@
                             "text": "Your baby does not need to be with you at this point in the study. We will let you know when it is time to get your baby."
                         },
                         {
-                            "text": "Hi and thank you for taking part in this study. We’re interested in how infants' response to a specific song changes as they become more familiar with it, and so in this study, we’re asking that your little one is sat in their highchair with their full body, from their head to their toes visible on camera. This might require you to position your device at the same level as the highchair table, or at some distance from your baby so we can be sure to capture their full body movement. They will listen to the standard version of the Happy Song. It’s really important that your baby isn’t influenced by your movement, so please resist any urges to sway or dance in any way! If you feel your infant needs a break, you can pause by pressing the spacebar. Thanks so much and on with the study!"
+                            "text": "Hello and thank you for taking part in this study.  We are interested in how children respond to a specific song and how this changes as they become more familiar with it.For example, will they be happier, will they dance more ?"
+                        },
+                        {
+                            "text": "So in this study, we are asking you to do three things. First,  we going to record your child listening to Imogen Heap's Happy Song here on LookIt. Second we ask you to play the song at home for a week and finally we will record them listening again at the end of that week."
+                        },
+                        {
+                            "text": "If this is your child's first or final time listening to the song the instructions are the same. Make sure your little one is sat in their highchair with their full body, from their head to their toes visible on camera. This might require you to position your device at the same level as the highchair table, or at some distance from your baby so we can be sure to capture their full body movement.   "
+                        },
+                        {
+                            "text": "You can use the video preview on the next screen to make sure the camera is nicely positioned. They will listen to the standard version of the Happy Song which is about 2.5 minutes long and LookIt will record them. It’s really important that your child isn’t influenced by your movement, so please resist any urges to sway or dance yourself! But you can encourage them to dance. And you don't have to be in the video yourself."
+                        },
+                        {
+                            "text": "If you feel your child needs a break, you can press the spacebar to stop the song. You can restart it when your child is ready. We're now going to record the video and there will be some further instructions at the end. Thanks so much and on with the study!"
                         }
                     ]
                 }
@@ -120,20 +132,6 @@
         "second-instructions": {
             "kind": "exp-lookit-instructions",
             "blocks": [
-                {
-                    "title": "What to do during the study:",
-                    "listblocks": [
-                        {
-                            "text": "If your child gets fussy or distracted during the study, or you need to attend to something else for a moment, you can pause the study by pressing the spacebar."
-                        },
-                        {
-                            "text": "If you notice that your child is becoming bored or too fussy to finish the study, that is perfectly OK and quite common. You are free to discontinue their participation in the study at any point."
-                        },
-                        {
-                            "text": "If you need to end the study early, you can press ctr-X or the F1 key to end the study. Select “exit” in the box that will appear on the screen. This will take you to the end of the study."
-                        }
-                    ]
-                },
                 {
                     "title": "Find a good position:"
                 },
@@ -198,7 +196,7 @@
             "durationSeconds": 156,
             "parentTextBlock": {
                 "title": "If your child needs a break, press the space bar.",
-                "text": "This will pause study and let restart the song when they are ready."
+                "text": "This stops the recording. You can start again when they are ready."
             },
             "showProgressBar": true,
             "showCursor": false
@@ -221,6 +219,7 @@
         }
     },
     "sequence": [
+         "video-config",
         "video-consent",
         "intro-video",
         "first-instructions",
